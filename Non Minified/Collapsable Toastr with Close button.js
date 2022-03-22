@@ -84,7 +84,6 @@ var config_toastr_v1 = {
 	"animation": {
 		"flag": "",
 		"animationType": "bounce", //fade/bounce/swing/slide
-		"occurance": "first"
 	}
 },
 maxwidth = "860px";
